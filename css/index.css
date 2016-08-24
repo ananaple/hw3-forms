@@ -1,0 +1,28 @@
+header {
+    background-color: #08088A;
+    color: yellow;
+    padding: 1px;
+    margin: 20px 100px 30px 100px;
+    text-align: center;
+    font-family: "Baloo da";
+    font-size: 60px;
+    text-shadow: 0px 0px 15px rgba(255,255,255,0.8);
+}
+
+#steps {
+    text-align: center;
+    color: #1B0459;
+    font-family: "baloo da";
+    font-size:25px;
+    text-shadow: 0px 0px 10px rgba(50,0,180,0.9);
+}
+
+.fl {
+    color: #FFF700;
+    font-size: 45px;
+    
+}
+
+td {
+    font-family: "baloo da";
+}
